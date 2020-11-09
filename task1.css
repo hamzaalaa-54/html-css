@@ -1,0 +1,61 @@
+body
+{
+	background: #AAAAAA;
+	color:#000;
+}
+header
+{
+	border: 1px solid;
+	padding: .3%;
+	margin: 2%;
+	background: #B73C3C;
+	text-align: center;
+}
+a
+{
+	height: 5%;
+	width: 20%;
+	display:inline-block;
+	text-decoration:none;
+	color: #214252;
+}
+a:hover
+{
+	color: #fff;
+	background: #af2d2d;
+}
+#mainImg img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+section
+{
+	margin: 2%;
+}
+#contacts
+{ 
+  margin: auto;
+  width: 80%;
+  border: 3px solid #f05454;
+  padding: 5px;
+  text-align: center;
+}
+#contacts p
+{
+	width: 25%;
+	border: 1px solid #f05454;
+	margin: 10px;
+	display:inline-block;
+	font-size: 30px;
+	color: #110F0D;
+}
+h3
+{
+	background:#af2d2d;
+	font-weight: bolder;
+	margin-left:30%;
+	margin-right: 30%; 
+}
